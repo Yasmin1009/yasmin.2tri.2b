@@ -1,53 +1,59 @@
 criaCartao(
-    'Aritmética',
-    'Quais são as operações básicas da Matemática?',
-    'Adição, Subtração, Multiplicação e Divisão.'
+    'Personagem Principal',
+    'Quem é a protagonista feminina da série *Diário de um Vampiro*?',
+    'Elena Gilbert.'
 )
 
 criaCartao(
-    'Função',
-    'O que seria o zero da função?',
-    'O valor onde o gráfico cruza o eixo da abscissa, ou ainda o valor de x para quando y for igual a 0.'
+    'Irmãos Salvatore',
+    'Quais são os nomes dos irmãos vampiros que disputam o amor de Elena?',
+    'Damon Salvatore e Stefan Salvatore.'
 )
 
 criaCartao(
-    'Estatística',
-    'Qual a definição de média aritmética?',
-    'Resultado da divisão do somatório dos números dados pela quantidade de números somados.'
+    'Originais',
+    'Quem é o vampiro original mais poderoso apresentado na série?',
+    'Niklaus Mikaelson (Klaus).'
 )
 
 criaCartao(
-    'Geometria',
-    'Como se calcula a área de um triângulo qualquer?',
-    'Multiplique a base pela altura e divida por dois.'
+    'Doppelgänger',
+    'O que significa ser uma doppelgänger em *Diário de um Vampiro*?',
+    'Uma duplicata mágica de uma pessoa que existe em várias gerações, como Elena e Katherine.'
 )
 
 criaCartao(
-    'Conjuntos Numéricos',
-    'O que define o conjunto dos números racionais, dê exemplos?',
-    'Números que podem ser escritos na forma de fração. Por exemplo, 3/4, 10/2, -8/2'
+    'Bruxas',
+    'Qual é o nome da melhor amiga bruxa de Elena?',
+    'Bonnie Bennett.'
 )
 
 criaCartao(
-    'Trigonometria',
-    'Quando utilizo o teorema de Pitágoras?',
-    'Para encontrar um dos lados de um triângulo retângulo, sendo dado os outros dois lados. h² = c² + c².'
+    'Transformação',
+    'O que é necessário para alguém se transformar em vampiro na série?',
+    'Morrer com sangue de vampiro no organismo e, depois, consumir sangue humano.'
 )
 
 criaCartao(
-    'Cálculo',
-    'Qual o valor de 58 - 2 x 10?',
-    '38.'
+    'Lobos',
+    'Qual personagem descobre ser um lobisomem e depois híbrido?',
+    'Tyler Lockwood.'
 )
 
 criaCartao(
-    'Razões Trigonométricas',
-    'Qual o valor de cosseno de 60º?',
-    '1/2.'
+    'Aliança Sobrenatural',
+    'Qual é o nome do grupo secreto que luta contra criaturas sobrenaturais em Mystic Falls?',
+    'O Conselho da Cidade de Mystic Falls.'
 )
 
 criaCartao(
-    'Ordem das Operações',
-    'Qual a ordem das operações matemática, da com maior para a menor prioridade?',
-    'Parênteses, Expoentes, Multiplicação e Divisão, Adição e Subtração.'
+    'Curiosidades',
+    'Quem foi o primeiro amor verdadeiro de Stefan Salvatore?',
+    'Katherine Pierce.'
+)
+
+criaCartao(
+    'Final da Série',
+    'Com quem Elena termina no final da série?',
+    'Damon Salvatore.'
 )
